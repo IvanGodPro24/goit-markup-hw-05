@@ -463,7 +463,7 @@ button {
 }
 
 .social-link-footer-container {
-  margin-right: 56px;
+  margin-right: 80px;
 }
 
 .footer-title {
@@ -473,10 +473,6 @@ button {
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
-
-.subscribe-title {
-  padding-left: 24px;
 }
 
 .social-link-footer-list {
