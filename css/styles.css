@@ -724,11 +724,6 @@ button {
 }
 
 .checkbox {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: row;
-
   cursor: pointer;
 }
 
