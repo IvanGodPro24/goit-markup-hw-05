@@ -697,6 +697,10 @@ button {
 
 .input-container {
   position: relative;
+  margin-bottom: 8px;
+}
+
+.textarea-container {
   margin-bottom: 16px;
 }
 
