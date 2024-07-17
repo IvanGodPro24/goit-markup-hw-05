@@ -603,10 +603,6 @@ button {
   padding: 72px 24px 24px 24px;
 }
 
-.margin-bottom {
-  margin-bottom: 24px;
-}
-
 .modal-paragraph {
   font-weight: 500;
   font-size: 16px;
@@ -701,7 +697,15 @@ button {
 
 .input-container {
   position: relative;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
+}
+
+.checkbox-container {
+  margin-bottom: 24px;
+}
+
+.internal-input-container {
+  position: relative;
 }
 
 .input-icon {
